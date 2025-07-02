@@ -2,13 +2,13 @@
 
 This project analyzes 5,000+ records of synthetic retail sales data using Python.
 
-Tools Used
+## Tools Used
 - Python
 - Pandas
 - Matplotlib
 - Seaborn
 
-Features
+## Features
 - Monthly, city-wise, and product-wise sales trend analysis
 - Cleaned and structured dataset
 - Visualized insights using bar charts
